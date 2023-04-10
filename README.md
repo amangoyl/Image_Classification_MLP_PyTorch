@@ -1,7 +1,7 @@
 # Image_Classification_MLP_PyTorch
 Created an image classification model based on MLP (Multi Layer Perceptrons) for classifying images of Japanese Characters
 
-The main objective of the project is to experiment with MLP's for image classification rather than CNN's. In most of the cases CNN's are better suited for the task of image classification since CNN's can better understand spatial relationships between pixels. However, in certain cases MLP's have benn proved to give better results.
+The main objective of the project is to experiment with MLP's for image classification rather than CNN's. In most of the cases CNN's are better suited for the task of image classification since CNN's can better understand spatial relationships between pixels. However, in certain cases MLP's have been proved to give better results.
 
 Information about dataset can be found at below link.
 http://codh.rois.ac.jp/kmnist/index.html.en
