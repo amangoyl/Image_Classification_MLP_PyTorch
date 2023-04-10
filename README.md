@@ -21,5 +21,5 @@ Where,
        c - Classifier
        
        
-Multiple blocks joined together result in the backbone of the model. BAckbone takes input from Stem, processes it through multiple blocks and passes the output to the classifier.
+Multiple blocks joined together result in the backbone of the model. Backbone takes input from Stem, processes it through multiple blocks and passes the output to the classifier.
 
