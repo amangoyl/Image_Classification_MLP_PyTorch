@@ -13,8 +13,11 @@ http://codh.rois.ac.jp/kmnist/index.html.en
 ![image](https://user-images.githubusercontent.com/102705658/230982909-dc461661-ca08-4855-8443-14641df96471.png)
 
 Where, S- Stem
+
        B - Blocks (each block consisisting of two MLP's)
+       
        c - Classifier
+       
        
 Multiple blocks joined together result in the backbone of the model. BAckbone takes input from Stem, processes it through multiple blocks and passes the output to the classifier.
 
